@@ -1,0 +1,14 @@
+/home/enigma/Documents/TES/dotnet/TestDotNet/bin/Debug/net8.0/TestDotNet
+/home/enigma/Documents/TES/dotnet/TestDotNet/bin/Debug/net8.0/TestDotNet.deps.json
+/home/enigma/Documents/TES/dotnet/TestDotNet/bin/Debug/net8.0/TestDotNet.runtimeconfig.json
+/home/enigma/Documents/TES/dotnet/TestDotNet/bin/Debug/net8.0/TestDotNet.dll
+/home/enigma/Documents/TES/dotnet/TestDotNet/bin/Debug/net8.0/TestDotNet.pdb
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/TestDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/TestDotNet.AssemblyInfoInputs.cache
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/TestDotNet.AssemblyInfo.cs
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/TestDotNet.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/TestDotNet.dll
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/refint/TestDotNet.dll
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/TestDotNet.pdb
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/TestDotNet.genruntimeconfig.cache
+/home/enigma/Documents/TES/dotnet/TestDotNet/obj/Debug/net8.0/ref/TestDotNet.dll
